@@ -18,7 +18,7 @@ The campaign strategy involved using different platforms, creating trending hash
 This section presents the box office performance, showing significant earnings, with a detailed breakdown of domestic and international box office revenues. The trends in box office performance are effectively illustrated through a line graph, providing a clear visual representation of the movie's revenue over time. This approach allows for an easy analysis of fluctuations and patterns in the box office data. On the top of that, a tabular representation is provided to elaborate the changes of finanacial performance (gross, rank, %change, etc.) in a chronological view.
 
 ## Forecasting Performance: 
-Employed linear regression analysis using R to forecast domestic box office performance. Evaluated the coefficient, p-value, R-square, and the 95% confidence interval to gurantee the prediction accuracy.
+Employed linear regression analysis using R to forecast domestic box office performance. Evaluated the coefficient, p-value, R-square, and the 95% confidence interval to gurantee the prediction accuracy. A statistical model is buit up with the visualization.
 
 ## Post-Mortem Analysis: 
 This retrospective analysis highlights the successes and challenges of the marketing campaign, including the effective use of social media platforms, and notes areas for improvement.
